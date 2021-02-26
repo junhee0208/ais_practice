@@ -1,0 +1,11 @@
+right
+----------------
+left
+left
+left
+left
+left
+left
+left
+left
+>>>>>>> 3888e1a1b1de71a253196d6cae15af6786cbd300
