@@ -3,7 +3,7 @@ public class ValidatePwd {
 	char letter;
 	boolean isUpper = false;
 	
-	public static boolean validationMethod(String pwd) {
+	public boolean validationMethod(String pwd) {
 		
 		for(int i=0; i < pwd.length(); i++) {
 			
